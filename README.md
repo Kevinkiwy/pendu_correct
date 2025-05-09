@@ -22,3 +22,4 @@ Utilisation du programme : Après l'installation du fichier, ouvrir le document 
 Ressources utilisées pour le projet : https://www.delftstack.com/fr/howto/python-tkinter/how-to-create-dropdown-menu-in-tkinter/(menu deroulant)         et             DeepSeek (correction d'erreurs)
 
 
+Licence Apache 2.0
