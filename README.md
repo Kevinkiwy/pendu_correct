@@ -19,6 +19,6 @@ Utilisation du programme : Après l'installation du fichier, ouvrir le document 
 7. Ne vous inquiétez pas, vous pouvez rejouer directement après la fin de la partie, même si vous perdez.
 8. Le score est affiché et sauvegardé en haut à droite de la fênetre du jeu.
 
-Ressources utilisées pour le projet : https://www.delftstack.com/fr/howto/python-tkinter/how-to-create-dropdown-menu-in-tkinter/         et             DeepSeek
+Ressources utilisées pour le projet : https://www.delftstack.com/fr/howto/python-tkinter/how-to-create-dropdown-menu-in-tkinter/(menu deroulant)         et             DeepSeek (correction d'erreurs)
 
 
